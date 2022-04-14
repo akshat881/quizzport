@@ -1,0 +1,7 @@
+You will be able to start the quiz once the technical team enable it. The timer will start once you start the quiz. The technical team has full right to disable the quiz anytime. So it is recommended to start the quiz at the prescribed time.
+To start the quiz, click on 'Start'.
+Once the quiz is started the timer would run irrespective of your logged in or logged our status. So it is recommended not to logout before test completion.
+To mark an answer you need to select it and press the 'Lock' button. Upon locking, the selected answer would be displayed and the question will be marked "green".
+Use the navigation buttons to navigate through different questions.
+The marks for correct and incorrect answer are listed above in the table. 0 marks would be awarded for the questions that are "not marked" (having "red" status).
+If you get some error, you can contact us via <href = 'mailto:info@auroralpu.in'>info@auroralpu.in</href>.
